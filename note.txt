@@ -1,2 +1,2 @@
-login-regexcss@gmail.com
-parol-regex123
+regexcss
+regex123
